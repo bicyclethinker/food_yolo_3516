@@ -1,0 +1,7 @@
+@'
+0 chicken_wings 鸡翅
+1 dumplings 饺子
+2 fried_rice 炒饭
+3 hamburger 汉堡
+4 ice_cream 冰淇淋
+'@ | Set-Content -Encoding UTF8 deploy_package\model\food5_labels.txt
