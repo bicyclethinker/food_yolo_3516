@@ -1,0 +1,7 @@
+﻿{
+  "sensor_type": 4,
+  "rtsp_enable": 1,
+  "stream_url": "rtsp://192.168.1.168:554/live0",
+  "width": 640,
+  "height": 640
+}

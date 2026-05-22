@@ -1,0 +1,37 @@
+﻿{
+  "chicken_wings": {
+    "zh": "鸡翅",
+    "kcal": 203,
+    "protein": 19,
+    "fat": 13,
+    "carbs": 0
+  },
+  "dumplings": {
+    "zh": "饺子",
+    "kcal": 230,
+    "protein": 8,
+    "fat": 9,
+    "carbs": 30
+  },
+  "fried_rice": {
+    "zh": "炒饭",
+    "kcal": 163,
+    "protein": 4,
+    "fat": 5,
+    "carbs": 25
+  },
+  "hamburger": {
+    "zh": "汉堡",
+    "kcal": 295,
+    "protein": 17,
+    "fat": 14,
+    "carbs": 24
+  },
+  "ice_cream": {
+    "zh": "冰淇淋",
+    "kcal": 207,
+    "protein": 3.5,
+    "fat": 11,
+    "carbs": 24
+  }
+}

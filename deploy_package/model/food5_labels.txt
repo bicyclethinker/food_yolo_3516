@@ -1,0 +1,5 @@
+﻿chicken_wings
+dumplings
+fried_rice
+hamburger
+ice_cream

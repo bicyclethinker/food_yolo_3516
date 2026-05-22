@@ -1,0 +1,13 @@
+﻿{
+  "model_path": "/opt/food_ai/model/food5_yolov5s_best.om",
+  "label_path": "/opt/food_ai/model/food5_labels.txt",
+  "nutrition_db_path": "/opt/food_ai/data/nutrition_db.json",
+  "history_path": "/opt/food_ai/history/history.jsonl",
+  "status_json_path": "/opt/food_ai/web/status.json",
+  "conf_threshold": 0.25,
+  "nms_threshold": 0.45,
+  "input_width": 640,
+  "input_height": 640,
+  "default_weight_g": 100,
+  "web_port": 8080
+}

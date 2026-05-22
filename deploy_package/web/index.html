@@ -1,0 +1,36 @@
+﻿<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <title>AI 食物热量与营养智能识别系统</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <main class="container">
+    <h1>AI 食物热量与营养智能识别系统</h1>
+
+    <section class="card">
+      <h2>当前识别结果</h2>
+      <p>食物：<span id="food">--</span></p>
+      <p>置信度：<span id="confidence">--</span></p>
+      <p>估算重量：<span id="weight">--</span> g</p>
+      <p>识别时间：<span id="time">--</span></p>
+    </section>
+
+    <section class="card">
+      <h2>营养估算</h2>
+      <p>热量：<span id="kcal">--</span> kcal</p>
+      <p>蛋白质：<span id="protein">--</span> g</p>
+      <p>脂肪：<span id="fat">--</span> g</p>
+      <p>碳水：<span id="carbs">--</span> g</p>
+    </section>
+
+    <section class="card">
+      <h2>系统说明</h2>
+      <p>AI 推理、营养计算、历史记录均由 Hi3516CV610 板端完成，电脑仅用于浏览器显示。</p>
+    </section>
+  </main>
+
+  <script src="app.js"></script>
+</body>
+</html>
